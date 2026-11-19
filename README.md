@@ -2,7 +2,11 @@
 
 [下載最新 Android APK](https://github.com/ziyuanh100/huang/raw/refs/heads/huangflow-downloads/HuangFlow.apk)
 
-目前版本為 0.3.0，適用於 Android 8.0 以上。0.2.0 可從「設定 → App 更新」下載，亦可使用上方連結直接覆蓋安裝。
+目前版本為 0.3.1，適用於 Android 8.0 以上。0.2.0 可從「設定 → App 更新」下載，亦可使用上方連結直接覆蓋安裝。
+
+## 0.3.1 啟動修正
+
+修正 Android 14 以上登記背景更新時可能在首頁開啟前退出的問題。若舊版無法啟動，可用上方連結直接下載並覆蓋安裝，無須清除資料。
 
 ## 0.3.0 更新內容
 
